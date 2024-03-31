@@ -1,0 +1,11 @@
+﻿  Sortowania.cpp
+C:\Users\chabe\source\repos\Sortowania\Sortowania\Sortowania.cpp(29,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\chabe\source\repos\Sortowania\Sortowania\Sortowania.cpp(115,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\chabe\source\repos\Sortowania\Sortowania\Sortowania.cpp(129,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\chabe\source\repos\Sortowania\Sortowania\Sortowania.cpp(146,38): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\chabe\source\repos\Sortowania\Sortowania\Sortowania.cpp(174,12): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „double measureTime<void(__cdecl *)(std::vector<int,std::allocator<int>> &,int,int),int,unsigned __int64>(F,std::vector<int,std::allocator<int>> &,int &&,unsigned __int64 &&)” funkcji szablon
+          with
+          [
+              F=void (__cdecl *)(std::vector<int,std::allocator<int>> &,int,int)
+          ]
+  Sortowania.vcxproj -> C:\Users\chabe\source\repos\Sortowania\x64\Debug\Sortowania.exe

@@ -1,0 +1,3 @@
+﻿  Pliki.cpp
+Statki.obj : error LNK2005: Element main jest już zdefiniowany w elemencie Pliki.obj
+C:\Users\chabe\source\repos\Projekty zaliczenie\x64\Debug\Projekty zaliczenie.exe : fatal error LNK1169: znaleziono co najmniej jeden wielokrotnie zdefiniowany symbol
